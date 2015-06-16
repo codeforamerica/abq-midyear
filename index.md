@@ -14,7 +14,7 @@ Code for America is a San Francisco based non-profit that believes government ca
 
 The Fellowship program sends teams of experienced technologists into local governments across the country to work full-time for a year in partnership with government officials. The fellows apply 21st Century Government Principles to important problems.
 
-In conjunction, the team is excited to work with leaders in city hall and the community to find new solutions to old problems. We are passionate about doing, not just thinking and will work to always keep our work open and transparent through regularly publishing our work and findings online, holding discussions and co-design session with both community and city partners, and aligning our principles and themes with clear input and validation from experts not only in subject matter but proximity.
+In conjunction, we are excited to work with leaders in city hall and the community to find new solutions to old problems. We are passionate about doing, not just thinking and will work to always keep our work open and transparent through regularly publishing our work and findings online, holding discussions and co-design session with both community and city partners, and aligning our principles and themes with clear input and validation from experts not only in subject matter but proximity.
 
 </section>
 
