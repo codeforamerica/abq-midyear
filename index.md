@@ -114,7 +114,7 @@ We believe that being culturally grounded and inclusive will help us identify a 
 
 <section>
 
-## Research
+### Research
 
 One of the most significant insights from our research was that many Albuquerque residents in hardship lack the requisite slack or abundance to deal with the shocks of the world. Without any leeway, suddenly losing a job and having to find the funds to pay for retraining creates instability that can have a debilitating impact on one’s life. At that moment of instability, residents tunnel their thinking, and search for the nearest and often problematic solution to their most immediate problem. 
 
@@ -158,15 +158,15 @@ Residents in hardship experience what many behavioral economists and psychologis
 
 ##Prototypes
 	
-**Each-One-Teach-One**
+###Each-One-Teach-One**
 
 People are often alone in the job seeking process. What if we could create a community to hold you accountable around finding jobs?
 
-**Find a Seat in a Co-Working Space**
+###Find a Seat in a Co-Working Space**
 
 We heard that in ABQ there are more open desks available in coworking spaces than there are people to fill them. What if there was a way to find a desk and see who is nearby, what they are creating, and what their skills are?
 
-**Helping an Independent Workforce**
+###Helping an Independent Workforce**
 
 It’s predicted that 40% of the workforce will be independent by 2020. If so, then what might it look like if a city collects information about all these workers who are reporting misc incomes and utilize it as feedback not only within government but for residents too.
 
