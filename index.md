@@ -184,7 +184,7 @@ We tested some forms:
 
 <section id="nextsteps">
 
-## Status &amp; Next Steps
+##Next Steps
 	
 ### Find and/or Create the Data
 
