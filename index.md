@@ -47,7 +47,7 @@ The first thing we heard from our city partner when we stepped foot in City Hall
 </section>
 
 
-<section>
+<section id="opportunity">
 
 ## The Opportunity
 
@@ -68,9 +68,9 @@ Helping residents in need find and understand the entire spectrum of options bot
 </section>
 
 
-<section>
+<section id="approach">
 
-## Our Approch
+## Our Approach
 
 We’ve been asking ourselves:
 
@@ -112,7 +112,7 @@ We believe that being culturally grounded and inclusive will help us identify a 
 </section>
 
 
-<section>
+<section id="research">
 
 ### Research
 
@@ -222,7 +222,7 @@ The largest challenge in doing any type of fellowship work is not competing and 
 </section>
 
 
-<section>
+<section id="initiatives">
 
 ## Initiatives
 
@@ -231,13 +231,13 @@ The largest challenge in doing any type of fellowship work is not competing and 
 </section>
 
 
-<section>
+<section id="community">
 
 ## Community Events
 
 * Feb 12 / Happy Hour hosted by Team Albuquerque
 * Feb 19 / Jennings and William speak on KRQE News 13
-* Feb 20 / Brunch with Code for ABQ
+* Feb 20 / Brunch with Code for Albuquerque
 * Apr 22 / Team hosted Research Show, Talk and Tell Presentation to Community
 * Feb 25 / Jennings taught STEMulus Center Design Workshop
 * Jun 10 / Team Albuquerque presents in San Francisco at BETA
