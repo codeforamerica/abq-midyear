@@ -131,6 +131,11 @@ The idea was simple. She’d get cash now and pay it back along with a fee with 
 
 Yvonne is still in this debt cycle, 4 months behind on her payments. She owes ~$400 just in fees and sees no way out. 
 
+<figure markdown="0">
+	<img src="images/emotional-map.jpg" />
+</figure>
+
+
 ### “Life Happens”
 
 Unfortunately, Yvonne’s story was not unique in our research nor is it unique in the United States. According to a recent Federal Reserve research study, 47% of respondents said they wouldn’t be able to cover a $400 emergency expense or would have to borrow money or sell something.
@@ -140,6 +145,18 @@ In Albuquerque, we heard time and time again, that “life happens” and becaus
 ### “You Have Too Much on Your Mind”
 
 Residents in hardship experience what many behavioral economists and psychologists call  a mental “bandwidth tax,” or a perspective that is debilitated by anxiety and stress around a looming problem, be it coming up with rent this month or the money to fix a broken-down car. Reduced mental bandwidth can create a dangerous and narrow perspective that desperately searches for nearsighted solutions.
+
+<section>
+## Experience Map for Resident in Hardship 
+
+<figure markdown="0">
+	<img src="images/experience-map.jpg" />
+</figure>
+
+</section>
+
+
+<section>
 
 ### “I Wanted to Hear *Yes*”
 
