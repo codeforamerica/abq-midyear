@@ -107,7 +107,6 @@ We believe that being culturally grounded and inclusive will help us identify a 
 
 <figure markdown="0">
 	<img src="images/CodeforAmerica_TiaSabia_Mark.jpg" />
-	<figcaption>user journey for tiasabia</figcaption>
 </figure>
 
 </section>
@@ -155,24 +154,9 @@ Residents in hardship experience what many behavioral economists and psychologis
 
 </section>
 
-
-<section>
-
-### “I Wanted to Hear *Yes*”
-
-> **70%** of New Mexico’s population is working poor.
-	
-> The factor that holds residents back from advancing in their careers is that they are **alone** in the process.
-
-> “I am not making enough money just to even pay the rent. It’s hard. What are you going to do? Get loans. That’s what you’re going to do.”
-> <br/><cite>Albuquerque resident who borrowed from a pay day loan business</cite>
-
-</section>
-
-
 <section id="prototypes">
 
-## Past Prototypes
+##Prototypes
 	
 **Each-One-Teach-One**
 
@@ -187,22 +171,6 @@ We heard that in ABQ there are more open desks available in coworking spaces tha
 It’s predicted that 40% of the workforce will be independent by 2020. If so, then what might it look like if a city collects information about all these workers who are reporting misc incomes and utilize it as feedback not only within government but for residents too.
 
 </section>
-
-
-<section id="tiasabia">
-
-## Tía Sabia
-	
-means your wise aunt
-	
-> Life Happens.
-
-> **47%** of Americans wouldn’t be able to cover a $400 emergency expense.
-> <br/><cite>Forbes</cite>
-
-> Help residents in any situation find and understand the entire **spectrum** of options both by **type** of need and **time** it will take to get assistance hyper-**locally**.
-
-> How might we help people in need understand all of their options in time?
 
 We tested some forms:
 	
