@@ -59,7 +59,7 @@ Through our research, we learned a shocking fact: that 70% of New Mexico is work
 
 Over the past few months, we’ve had the opportunity to get to know many Burquenos experiencing this degree of hardship. 
 
-Through our conversations with residents in hardship, we learned that in addition to low educational attainment and limited workforce skills, the key factor preventing residents in hardship from advancing in their careers and up the socioeconomic ladder is social isolation. This isolation is especially acute when suddenly, “life happens.” Whether a resident loses a job or encounters a surprise financial bump in the road, they are ordinarily dealing with it by themselves. Most importantly, when facing a significant challenge, one’s feeling of isolation often leads to mental fatigue, feeling optionless,  and a subsequent series of hasty, costly and regrettable decisions. 
+Through our research, we learned that in addition to low educational attainment and limited workforce skills, the key factor preventing residents in hardship from advancing in their careers and up the socioeconomic ladder is social isolation. This isolation is especially acute when suddenly, “life happens.” Whether a resident loses a job or encounters a surprise financial bump in the road, they are ordinarily dealing with it by themselves. Most importantly, when facing a significant challenge, one’s feeling of isolation often leads to mental fatigue, feeling optionless,  and a subsequent series of hasty, costly and regrettable decisions. 
 
 Helping residents in need find and understand the entire spectrum of options both by type of need and the time it will take to get assistance can have a major impact in their life. 
 
