@@ -146,7 +146,7 @@ In Albuquerque, we heard time and time again, that “life happens” and becaus
 Residents in hardship experience what many behavioral economists and psychologists call  a mental “bandwidth tax,” or a perspective that is debilitated by anxiety and stress around a looming problem, be it coming up with rent this month or the money to fix a broken-down car. Reduced mental bandwidth can create a dangerous and narrow perspective that desperately searches for nearsighted solutions.
 
 <section>
-## Experience Map for Resident in Hardship 
+###Experience Map for Resident in Hardship 
 
 <figure markdown="0">
 	<img src="images/experience-map.jpg" />
@@ -247,14 +247,6 @@ PHOTO #2
 * [Mayor Berry introduces Code For America fellowship](http://krqe.com/2015/02/19/mayor-berry-introduces-code-for-america-fellowship/)
 
 </section>
-
-
-<section>
-
-## Looking Ahead
-
-</section>
-
 
 <section id="thankyou">
 
