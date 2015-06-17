@@ -102,6 +102,16 @@ We believe that being culturally grounded and inclusive will help us identify a 
 
 </section>
 
+<section>
+## TiaSabia Use Case
+
+<figure markdown="0">
+	<img src="images/CodeforAmerica_TiaSabia_Mark.jpg" />
+	<figcaption>user journey for tiasabia</figcaption>
+</figure>
+
+</section>
+
 
 <section>
 
