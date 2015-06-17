@@ -244,7 +244,7 @@ The largest challenge in doing any type of fellowship work is not competing and 
 * Jun 15 / Jennings reports at the Living Cities Initiative in Albuquerque
 * Jul 11 / William and Jennings host Albuquerque Web Geeks Community Building Workshop
 
-<video width="320" height="240" autoplay controls>
+<video width="100%" autoplay controls>
 	<source src="images/talkshowandtellvideo.mp4" type="video/mp4">
 	<source src="images/talkshowandtellvideo.ogg" type="video/ogg">
 </video>
