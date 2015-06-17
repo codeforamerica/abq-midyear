@@ -162,13 +162,25 @@ Residents in hardship experience what many behavioral economists and psychologis
 
 People are often alone in the job seeking process. What if we could create a community to hold you accountable around finding jobs?
 
+<figure markdown="0">
+	<img src="eachoneteachone.jpg" />
+</figure>
+
 ###Find a Seat in a Co-Working Space
 
 We heard that in ABQ there are more open desks available in coworking spaces than there are people to fill them. What if there was a way to find a desk and see who is nearby, what they are creating, and what their skills are?
 
+<figure markdown="0">
+	<img src="seatmap.jpg" />
+</figure>
+
 ###Helping an Independent Workforce
 
-It’s predicted that 40% of the workforce will be independent by 2020. If so, then what might it look like if a city collects information about all these workers who are reporting misc incomes and utilize it as feedback not only within government but for residents too.
+It’s predicted that 40% of the workforce will be independent by 2020. If so, then what might it look like if a city collects information about all these workers who are reporting miscellaneous incomes and use it as a feedback loop not only within government but for residents too.
+
+<figure markdown="0">
+	<img src="jenningsapp.jpg" />
+</figure>
 
 </section>
 
