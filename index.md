@@ -5,12 +5,16 @@ title: Report
 
 {::options parse_block_html="true" /}
 
+<!--Jennings ugly css in page is better than inline, eh, right?-->
+<style>
+.quote {font-size: 3.3rem; line-height:3.5rem;}
+</style>
 
 <section id="summary">
 
 ## Executive Summary
 
-Code for America is a San Francisco based non-profit that believes government can work for the people, by the people in the 21st century. Code for America works with cities to build open source technology and organize a network of people dedicated to making government services simple, effective, and easy to use.
+Code for America is a San Francisco based non-profit that believes government can work for t people, by the people in the 21st century. Code for America works with cities to build open source technology and organize a network of people dedicated to making government services simple, effective, and easy to use.
 
 The Fellowship program sends teams of experienced technologists into local governments across the country to work full-time for a year in partnership with government officials. The fellows apply 21st Century Government Principles to important problems.
 
@@ -42,7 +46,9 @@ The largest is to connect the dots and standardize some of the communications an
 
 #### Organization Outcomes
 	
-The first thing we heard from our city partner when we stepped foot in City Hall is to be ‘catalyst for change!’ No kidding, by the brief it states: “make stakeholders see that change is possible and inexpensive.” Another objective is to grow the civic tech community and improve sustainability for new services. Lastly, to scale up data opportunities and allow the city to become “information rich, instead of simply data rich.”
+The first thing we heard from our city partner when we stepped foot in City Hall is to be ‘catalyst for change!’ No kidding, by the brief it states: “make stakeholders see that change is possible and inexpensive.” Another objective is to grow the civic tech community and improve sustainability for new services. Lastly, to scale up data opportunities and allow the city to become, as Mayor Berry so simply put it:
+
+<h2 class="quote">“information rich, instead of simply data rich.”</h2>
 
 </section>
 
@@ -55,7 +61,9 @@ The first thing we heard from our city partner when we stepped foot in City Hall
 
 We traveled to Albuquerque in February to discover how we could use technology to  create more opportunities for upward mobility for residents. During our February residency, we spoke with individuals at every level of the community, ranging from top city officials in the Mayor’s Office to everyday independent business owners and residents.
 
-Through our research, we learned a shocking fact: that 70% of New Mexico is working poor. Working poor is defined as residents who receive at least one social service and who who fall below some percentage of the poverty level. Through further research, we learned that the poverty rate in Albuquerque has steadily increased over the past 7 years, affecting youth 18-24 years old and children under 5 years old the most. It’s predicted that almost 1/5th of the residents are living below the poverty line. It is even worse for children, 29% of whom are believed to live in poverty. 
+<h2 class="quote">70% of the state of New Mexico is working poor</h2>
+
+Through our research, we learned a shocking fact: that 70% of the state of New Mexico is working poor. Working poor is defined as residents who receive at least one social service and who who fall below some percentage of the poverty level. Through further research, we learned that the poverty rate in Albuquerque has steadily increased over the past 7 years, affecting youth 18-24 years old and children under 5 years old the most. It’s predicted that almost 1/5th of the residents are living below the poverty line. It is even worse for children, 29% of whom are believed to live in poverty. 
 
 Over the past few months, we’ve had the opportunity to get to know many Burquenos experiencing this degree of hardship. 
 
@@ -82,11 +90,14 @@ TiaSabia will help residents in hardship by giving them a wider perspective of a
 
 ### Design for Self-Reliance
 
-Through the TiaSabia experience, we hope to create a space of possibility and agency. We want to design for positive emotions such as self-reliance and persistence. We want to enable users who might be mentally fatigued due to their hardship to feel like they can actively change, and take full control of their lives. 
+Through the TiaSabia experience, we hope to create a space of possibility and agency. We want to design for positive emotions such as self-reliance and persistence. We want to enable users who might be mentally fatigued due to their hardship to feel like they can actively change, and take full control of their lives.
 
 ### Encourage a Positive Narrative
 
 Despite having a history of negative representation in the media, residents see an opportunity to positively enhance Albuquerque’s narrative. As one resident put it, “we are not good at telling our own story.” Through conversations with the community it became clear that negative opinions about Albuquerque have found their way into the minds of many residents. Both from large, external sources like The New Yorker and Rolling Stone (who both profiled the city’s police departments in the last year) to small local news sources focusing their attention on anything with dram,  drugs or violence. 
+
+<h2 class="quote">“We are not good at telling our own story.”</h2>
+
 
 There is an opportunity to help grow residents’ confidence in themselves and in Albuquerque as a unique place to live. Our goal is to draw out and amplify the already existing positive narrative. 
 
@@ -134,16 +145,15 @@ Yvonne is still in this debt cycle, 4 months behind on her payments. She owes ~$
 	<img src="images/emotional-map.jpg" />
 </figure>
 
-
-### “Life Happens”
+<h2 class="quote" style="padding-top: 15px;">“Life Happens”</h2>
 
 Unfortunately, Yvonne’s story was not unique in our research nor is it unique in the United States. According to a recent Federal Reserve research study, 47% of respondents said they wouldn’t be able to cover a $400 emergency expense or would have to borrow money or sell something.
 
 In Albuquerque, we heard time and time again, that “life happens” and because residents aren’t aware of or don’t have access to the many existing, safe services that could help them in times of need, they feel like high interest loans are their only options. As one resident who felt she had no other options put it, “what are you doing to do? Get loans. That’s what you’re going to do.”
 
-### “You Have Too Much on Your Mind”
-
 Residents in hardship experience what many behavioral economists and psychologists call  a mental “bandwidth tax,” or a perspective that is debilitated by anxiety and stress around a looming problem, be it coming up with rent this month or the money to fix a broken-down car. Reduced mental bandwidth can create a dangerous and narrow perspective that desperately searches for nearsighted solutions.
+
+<h2 class="quote" style="padding-top: 15px;">“You Have Too Much on Your Mind”</h2>
 
 <section>
 ###Experience Map for Resident in Hardship 
@@ -155,9 +165,49 @@ Residents in hardship experience what many behavioral economists and psychologis
 </section>
 
 <section id="prototypes">
+##Initial Tía Sabia Product Demo
+The initial product focused on creating a Kiva Zip type service where borrowers could ask their local communities for assistance with small-dollar personal loans. Then the local community aspect would be supported by donors. The donations would lead to a dashboard of data to help everyone understand the scope of need and types of needs being aided.
 
-##Prototypes
+We used the Wufoo platform to quickly stand up a demo to test with users like Yvonne while in Albuquerque in May. We also showed this prototype to users that would be potential donors. Both groups were interested in the idea and found value in the hyper local approach. The borrows especially like the sliders shown below.
 	
+<figure markdown="0">
+	<img src="images/tia-sabia-demo-short.gif" />
+	<figcaption>Version 1 of Tía Sabia web app</figcaption>
+</figure>
+
+##Tía Sabia Prototype
+
+As stated above, Tía Sabia focuses on aligning by <strong>time</strong> and <strong>type of need</strong>. In our prototype we ask the user to define the need first. The needs are shaped from this hierarchy influenced by Maslow's hierarchy, they should be read from bottom to top; most important to less important respectively.
+
+<figure markdown="0">
+	<img src="images/tia-behavior-chart.png" />
+</figure>
+
+####Step One
+Imagine Yvonne, she comes to our service and the first question asked of her is to define the depth of her need shown below.
+
+<figure markdown="0">
+	<img style="border:10px solid black;" src="images/sabia-web-01.png" />
+</figure>
+
+####Step Two
+From here, Yvonne is shown a list of opportunities for her since she's defined her <strong>type of need</strong> and <strong>timeline</strong>. In additional she's ask some more questions to contextualize her with the system and reveal options that might also help her that are variables. In this case she selects that she is interested in a coach.
+
+<figure markdown="0">
+	<img style="border:10px solid black;" src="images/sabia-web-03.png" />
+</figure>
+
+####Step Three
+Lastly, Yvonne is shown a list of availiable options provided through multiple city, state, and non-for-profit services in the area. She'll now know how long the application process usually takes and have a efficient way to apply for multiple services at once. She's also asked which institution she would like to be connected with for coaching.
+
+<figure markdown="0">
+	<img style="border:10px solid black;" src="images/sabia-web-02.png" />
+</figure>
+	
+##Initial Prototypes
+
+These are prototypes that we showed the community early on to help guide our hypothesis around people operating in isolation.
+
 ###Each-One-Teach-One
 
 People are often alone in the job seeking process. What if we could create a community to hold you accountable around finding jobs?
@@ -166,7 +216,7 @@ People are often alone in the job seeking process. What if we could create a com
 	<img src="images/each-one-teach-one.jpg" />
 </figure>
 
-###Find a Seat in a Co-Working Space
+###Co-Working Space Seat Finder
 
 We heard that in ABQ there are more open desks available in coworking spaces than there are people to fill them. What if there was a way to find a desk and see who is nearby, what they are creating, and what their skills are?
 
@@ -174,7 +224,7 @@ We heard that in ABQ there are more open desks available in coworking spaces tha
 	<img src="images/seat-map.jpg" />
 </figure>
 
-###Helping an Independent Workforce
+###Independent Workforce Data Collections
 
 It’s predicted that 40% of the workforce will be independent by 2020. If so, then what might it look like if a city collects information about all these workers who are reporting miscellaneous incomes and use it as a feedback loop not only within government but for residents too.
 
@@ -183,13 +233,6 @@ It’s predicted that 40% of the workforce will be independent by 2020. If so, t
 </figure>
 
 </section>
-
-We tested some forms:
-	
-<figure markdown="0">
-	<img src="images/tia-sabia-demo-short.gif" />
-	<figcaption>Version 1 of Tía Sabia web app</figcaption>
-</figure>
 
 </section>
 
