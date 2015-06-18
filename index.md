@@ -164,7 +164,7 @@ Residents in hardship experience what many behavioral economists and psychologis
 ###Experience Map for Resident in Hardship 
 
 <figure markdown="0">
-	<img src="images/experience-map.jpg" />
+	<a href="images/experiencemap.png" data-lity><img src="images/experience-map.jpg" /></a>
 </figure>
 
 </section>
