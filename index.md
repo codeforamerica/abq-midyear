@@ -134,7 +134,7 @@ From our conversations with residents who borrowed from high interest lenders, w
 ### Meet Yvonne
 
 <figure markdown="0">
-	<img src="images/YVonne.jpg" height="auto" width="30%" />
+	<img style="margin-left:23%;" src="images/yvonne.gif" />
 </figure>
 
 She is a 57 year old part-time chef and student living on $12K a year. Faced with student loans, other bills, and only a part-time income, she needed to do something fast to make ends meet. 
@@ -164,7 +164,7 @@ Residents in hardship experience what many behavioral economists and psychologis
 ###Experience Map for Resident in Hardship 
 
 <figure markdown="0">
-	<a href="images/experiencemap.png" data-lity><img src="images/experience-map.jpg" /></a>
+	<a href="images/experience-map.jpg" data-lity><img src="images/experience-map.jpg" /></a>
 </figure>
 
 </section>
@@ -290,7 +290,7 @@ The largest challenge in doing any type of fellowship work is not competing and 
 * Apr 22 / Team hosted Research Show, Talk and Tell Presentation to Community
 * Jun 10 / Team Albuquerque presents in San Francisco at BETA
 * Jun 15 / Jennings reports at the Living Cities Initiative in Albuquerque
-* Jul 11 / William and Jennings host Albuquerque Web Geeks Community Building Workshop
+* Jul 11 / Fellows and Brigade host Albuquerque Web Geeks Workshop on Local Data and Mapping
 
 <video width="100%" autoplay controls>
 	<source src="images/talkshowandtellvideo.mp4" type="video/mp4">
