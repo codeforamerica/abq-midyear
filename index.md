@@ -139,9 +139,9 @@ From our conversations with residents who borrowed from high interest lenders, w
 
 She is a 57 year old part-time chef and student living on $12K a year. Faced with student loans, other bills, and only a part-time income, she needed to do something fast to make ends meet. 
 
-Because she was too embarrassed and stressed to ask her family for help, and thought that a bank loan would take too long or she didn’t have good credit, and wasn’t aware of local safer grants that could have helped her, she decided to borrow $300 from a payday lender at a 400%+ APR to cover her expenses. She felt like she had no other options. 
+Because she was too embarrassed and stressed to ask her family for help, and thought that a bank loan would take too long or she didn’t have good credit, and wasn’t aware of local safer grants that could have helped her, she decided to borrow $300 from a payday lender at a 400%+ APR to cover her expenses. She was stressed, fatigued and felt like she had no other options. 
 
-The idea was simple. She’d get cash now and pay it back along with a fee with her next paycheck. It seemed like exactly what she needed, however, “life happened” and when the loan came due the next month, her part-time income didn’t allow her to pay it back so she had to take out another loan. 
+The idea was simple. She’d get cash now and pay it back along with a fee with her next paycheck. It seemed like exactly what she needed, however, “life happened” and when the loan came due the next month, her part-time income didn’t allow her to pay it back so she had to take out another loan. Yvonne became addicted to the ease of these types of loans and the cycle went on for months. 
 
 Yvonne is still in this debt cycle, 4 months behind on her payments. She owes ~$400 just in fees and sees no way out. 
 
