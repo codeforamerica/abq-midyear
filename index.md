@@ -142,7 +142,7 @@ The idea was simple. She’d get cash now and pay it back along with a fee with 
 Yvonne is still in this debt cycle, 4 months behind on her payments. She owes ~$400 just in fees and sees no way out. 
 
 <figure markdown="0">
-	<img src="images/emotional-map.jpg" />
+	<img src="images/Tia-Sabia-Spectrogram.gif" />
 </figure>
 
 <h2 class="quote" style="padding-top: 15px;">“Life Happens”</h2>
