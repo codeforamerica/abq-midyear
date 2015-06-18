@@ -14,7 +14,7 @@ title: Report
 
 ## Executive Summary
 
-Code for America is a San Francisco based non-profit that believes government can work for t people, by the people in the 21st century. Code for America works with cities to build open source technology and organize a network of people dedicated to making government services simple, effective, and easy to use.
+Code for America is a San Francisco based non-profit that believes government can work for the people, by the people in the 21st century. Code for America works with cities to build open source technology and organize a network of people dedicated to making government services simple, effective, and easy to use.
 
 The Fellowship program sends teams of experienced technologists into local governments across the country to work full-time for a year in partnership with government officials. The fellows apply 21st Century Government Principles to important problems.
 
