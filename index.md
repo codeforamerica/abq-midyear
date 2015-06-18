@@ -135,8 +135,8 @@ From our conversations with residents who borrowed from high interest lenders, w
 
 <figure markdown="0">
 	<img src="images/YVonne.jpg" height="auto" width="30%" />
-	
 </figure>
+
 She is a 57 year old part-time chef and student living on $12K a year. Faced with student loans, other bills, and only a part-time income, she needed to do something fast to make ends meet. 
 
 Because she was too embarrassed and stressed to ask her family for help, and thought that a bank loan would take too long or she didn’t have good credit, and wasn’t aware of local safer grants that could have helped her, she decided to borrow $300 from a payday lender at a 400%+ APR to cover her expenses. She felt like she had no other options. 
