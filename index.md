@@ -117,7 +117,7 @@ We believe that being culturally grounded and inclusive will help us identify a 
 ## TiaSabia Use Case
 
 <figure markdown="0">
-	<img src="images/CodeforAmerica_TiaSabia_Mark.jpg" />
+	<img src="images/tia-user-flow.gif" />
 </figure>
 
 </section>
@@ -156,6 +156,7 @@ Residents in hardship experience what many behavioral economists and psychologis
 <h2 class="quote" style="padding-top: 15px;">“You Have Too Much on Your Mind”</h2>
 
 <section>
+
 ###Experience Map for Resident in Hardship 
 
 <figure markdown="0">
