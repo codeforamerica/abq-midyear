@@ -133,6 +133,10 @@ From our conversations with residents who borrowed from high interest lenders, w
 
 ### Meet Yvonne
 
+<figure markdown="0">
+	<img src="images/YVonne.jpg" height="auto" width="30%" />
+	
+</figure>
 She is a 57 year old part-time chef and student living on $12K a year. Faced with student loans, other bills, and only a part-time income, she needed to do something fast to make ends meet. 
 
 Because she was too embarrassed and stressed to ask her family for help, and thought that a bank loan would take too long or she didn’t have good credit, and wasn’t aware of local safer grants that could have helped her, she decided to borrow $300 from a payday lender at a 400%+ APR to cover her expenses. She felt like she had no other options. 
@@ -282,8 +286,8 @@ The largest challenge in doing any type of fellowship work is not competing and 
 * Feb 12 / Happy Hour hosted by Team Albuquerque
 * Feb 19 / Jennings and William speak on KRQE News 13
 * Feb 20 / Brunch with Code for Albuquerque
-* Apr 22 / Team hosted Research Show, Talk and Tell Presentation to Community
 * Feb 25 / Jennings taught STEMulus Center Design Workshop
+* Apr 22 / Team hosted Research Show, Talk and Tell Presentation to Community
 * Jun 10 / Team Albuquerque presents in San Francisco at BETA
 * Jun 15 / Jennings reports at the Living Cities Initiative in Albuquerque
 * Jul 11 / William and Jennings host Albuquerque Web Geeks Community Building Workshop
@@ -292,16 +296,17 @@ The largest challenge in doing any type of fellowship work is not competing and 
 	<source src="images/talkshowandtellvideo.mp4" type="video/mp4">
 	<source src="images/talkshowandtellvideo.ogg" type="video/ogg">
 </video>
-
+During our April trip, we held a community Show, Talk & Tell event where we had over 50 attendees. We briefed the community on our work and held co-design sessions. 
 <figure markdown="0">
 	<img src="images/postitboard.jpg" />
 </figure>
+Brainstorming how to improve education in Albuquerque. 
 
 
 <figure markdown="0">
 	<img src="images/event.jpg" />
 </figure>
-
+William speaks with Head of Albuquerque Senior Affairs 
 </section>
 
 
